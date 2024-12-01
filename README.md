@@ -29,6 +29,7 @@ This project automates the process of:
 ├── server
 │   └── slack_event_trigger.py (handles Slack interactive actions)
 └── token.json (not included; generated during Gmail API authentication)
+```
 
 ---
 
